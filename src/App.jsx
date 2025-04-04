@@ -20,8 +20,13 @@ const App = () => {
     <div className='max-w-5xl mx-auto bg-black text-white flex flex-col overflow-hidden w-full border-double p-0 border-t-0 '>
       <div className=''>
          <div className='absolute bg-gradient-to-l from-red-500 w-200 h-165  ml-55.5 opacity-13 rounded-tr-4xl'></div>
-
+        <div>
         <Navbar/>
+
+        <div>
+           
+        </div>
+        </div>
        
         <Home />
       </div>
@@ -62,4 +67,3 @@ const App = () => {
 }
 
 export default App
-

@@ -23,7 +23,7 @@ const Home = () => {
             of the type scrambled it to make a type spacimen book.
         </h4><br /><br />
         <a href="#">
-            <li rel='goojara.to' className='flex flex-row h-10 border-1 border-white-600 rounded-lg w-40 h-10 justify-center items-center gap-3 bg-black mr-90'>
+            <li className='flex flex-row h-10 border-1 border-white-600 rounded-lg w-40 h-10 justify-center items-center gap-3 bg-black mr-90'>
              <img src={Play_vd} alt="play" className='w-6 bg-white rounded-full' />
              <strong>Watch Trailer</strong>
             </li>
