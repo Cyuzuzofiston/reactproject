@@ -3,7 +3,7 @@ import Navbar from './Components/home/Navbar'
 import Home from './Components/home/Home'
 import MovieCard from './Components/home/MVC'
 import fire from './assets/fire.png'
-import Trending from './Components/home/trending'
+import Trending from './Components/home/Trending.jsx'
 import List from './Components/home/popularmovies'
 import End from './Components/home/empty'
 
