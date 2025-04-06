@@ -38,7 +38,7 @@ const Home = () => {
   <img 
     src={grax} 
     alt="guardians" 
-    className="absolute w-65 h-[100] mb-30 left-30  z-0 shadow-[0px -30px 0px 10px rgba(255, 0, 0, 0.438)] ml-16 "
+    className="absolute w-65 h-[200px] mb-30 left-30  z-0 shadow-[0px -30px 0px 10px rgba(255, 0, 0, 0.438)] ml-16 "
   /> 
   
   <img 
