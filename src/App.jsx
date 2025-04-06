@@ -4,7 +4,7 @@ import Home from './Components/home/Home'
 import MovieCard from './Components/home/MVC'
 import fire from './assets/fire.png'
 import Trending from './Components/home/Trending.jsx'
-import List from './Components/home/popularmovies'
+import List from './Components/home/popularMovies.jsx'
 import End from './Components/home/empty'
 
 
